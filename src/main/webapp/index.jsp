@@ -10,7 +10,7 @@ b<!DOCTYPE html>
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">basic demo</h2>
-      <p class="text-center">first pipeline</p>
+      <p class="text-center">first declarative pipeline</p>
   </div>
 </body>
 </html>
