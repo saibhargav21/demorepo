@@ -40,6 +40,9 @@ pipeline {
         }
     } 
    }
-  
-   
+   post{
+      always{
+       emailext body: 'this is build demo', subject: 'build', to: 'sagisaibhargav21181@gmail.com'  
+      }
+   }
 }
